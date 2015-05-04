@@ -1,0 +1,5 @@
+/Users/zhangkai/Projects/GuessNumber/GuessNumber/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/zhangkai/Projects/GuessNumber/GuessNumber/bin/Release/GuessNumber.exe.mdb
+/Users/zhangkai/Projects/GuessNumber/GuessNumber/bin/Release/GuessNumber.exe
+/Users/zhangkai/Projects/GuessNumber/GuessNumber/obj/x86/Release/GuessNumber.exe
+/Users/zhangkai/Projects/GuessNumber/GuessNumber/obj/x86/Release/GuessNumber.exe.mdb
